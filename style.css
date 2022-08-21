@@ -49,13 +49,14 @@ section {
     margin-right: 50px;
 }
 
-.second-button {
+#second-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 20px 40px;
+    padding: 15px 30px;
     border-radius: 5px;
     color: white;
     font-weight: 700;
+
 }
 
 .dream-big {
