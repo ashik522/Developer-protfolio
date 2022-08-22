@@ -11,9 +11,9 @@ h1 {
     color: orange;
 }
 
-section {
+.another-section {
     display: flex;
-    margin-bottom: 150px
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -64,4 +64,36 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 
+}
+
+.orange {
+    color: orange;
+}
+
+.experince {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.item {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5px;
+}
+
+#tomato {
+    border-left: 7px solid tomato;
+
+}
+
+#blue {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
 }
